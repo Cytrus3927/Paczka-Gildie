@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1685223369848
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685223394958
+  login: 1685222924937
+money: '0'
+last-account-name: Cytrus3927
+lastlocation:
+  world: c021c3a7-c8a7-4a2d-b7ef-3ba266936146
+  world-name: world
+  x: -221.32783271911956
+  y: 92.68060850536317
+  z: -262.8001373250259
+  yaw: -228.59478759765625
+  pitch: 18.06006622314453
+logoutlocation:
+  world: c021c3a7-c8a7-4a2d-b7ef-3ba266936146
+  world-name: world
+  x: -259.6036568375854
+  y: 66.0
+  z: -301.8471927981561
+  yaw: -89.69976806640625
+  pitch: -0.0891115814447403
